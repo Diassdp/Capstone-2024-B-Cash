@@ -31,4 +31,4 @@ BCASH is an innovative mobile application designed to address these issues head-
 | ------------------------------------ | ----------------------------------------------------------------------------------------- |
 | Mobile Development                   | [B_Cash-Android](https://github.com/Diassdp/B-Cash.git)                                   |
 | Cloud Computing (API Model)          | [B_Cash_API_Model](https://github.com/askenas/bcash)                                      |
-| Machine Learning                     | [machine_learning_capstone]()                                                             |
+| Machine Learning                     | [machine_learning_capstone](https://github.com/jonathans1603/B-Cash )                                                             |
