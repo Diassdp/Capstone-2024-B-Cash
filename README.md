@@ -16,12 +16,13 @@
 
 | Name                    | Bangkit ID  | Learning Path      | Contacts                                                                                                                                                                                |
 | ----------------------- | ----------- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Name] | [Bangkit ID] | Mobile Development |                      |
-| [Name]       | [Bangkit ID] | Mobile Development |          |
-| [Name]          | [Bangkit ID] | Machine Learning   |                               |
-| [Name]       | [Bangkit ID] | Machine Learning   |  |
-| [Name]   | [Bangkit ID] | Cloud Computing    |                              |
-| [Name]            | [Bangkit ID] | Cloud Computing    |                    |
+| Dias Syahadatputra | A295D4KY4431 | Mobile Development |                      |
+| Aufa Fakhri Tiyo Widodo | A295D4KY3989 | Mobile Development |          |
+| Yonathan | M295D4KY3287 | Machine Learning   |                               |
+| Yohana Muriana Sidabutar | M010D4KX3047 | Machine Learning   |  |
+| Amelia Adhariani | M198D4KX1406 | Machine Learning   |  |
+| Askenas Salinding | C006D4KY0671 | Cloud Computing    |                              |
+| Dinda Desita Ayu | C324D4KX0520 | Cloud Computing    |                    |
 
 ## Project Architecture
 
