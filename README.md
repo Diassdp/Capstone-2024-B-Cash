@@ -23,7 +23,7 @@ BCASH is an innovative mobile application designed to address these issues head-
 
 ## Project Architecture
 
-![endpoint.](/project-architecture/project-architecture-update.png)
+![endpoint.](https://github.com/Diassdp/B-Cash/assets/129014865/c38f1f57-46c3-482c-a6e1-8bcb0e137390)
 
 ## Learning Path Repository
 
